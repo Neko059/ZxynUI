@@ -1,0 +1,27 @@
+{
+  "namespace": "zxyn_button",
+
+  "light_content_button@common_buttons.light_content_button": {
+    "$default_button_texture|default": "",
+    "$hover_button_texture|default": "",
+    "$pressed_button_texture|default": "",
+    "$locked_button_texture|default": "",
+    "$default_state_border_visible": false,
+    "$hover_state_border_visible": true,
+    "$pressed_state_border_visible": true,
+    "size": [ 25, "100%"  ],
+    "$locked_state_border_visible": false
+  },
+
+  "hyperlink_content_button@common_buttons.hyperlink_content_button": {
+    "$default_button_texture|default": "",
+    "$hover_button_texture|default": "",
+    "$pressed_button_texture|default": "",
+    "$locked_button_texture|default": "",
+    "$default_state_border_visible": false,
+    "$hover_state_border_visible": true,
+    "$pressed_state_border_visible": true,
+    "size": [ 25, "100%"  ],
+    "$locked_state_border_visible": false
+  }
+}
