@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§lCreated by §bZxynProjects",
+        "name": "Zxyn§bUI [ OPEN ]",
+        "uuid": "393a7da2-cc6a-4790-b4ce-f28368ace90a",
+        "version": [1, 2, 1],
+        "min_engine_version": [1, 19, 70]
+    },
+    "modules": [
+        {
+            "description": "§lCreated by §bZxynProjects",
+            "type": "resources",
+            "uuid": "f9b14a5d-ee6e-4050-a5dd-9e37b65e990b",
+            "version": [1, 2, 1]
+        }
+    ]
+}
