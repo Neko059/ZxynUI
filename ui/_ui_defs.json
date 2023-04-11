@@ -1,0 +1,9 @@
+{
+  // Alphabetical order please :)
+  "ui_defs": [
+
+
+    // Main UI
+    "textures/nekoui/mainui/zxyn_ui_new.json"
+  ]
+}
