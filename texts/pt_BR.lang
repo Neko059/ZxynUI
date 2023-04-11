@@ -1,0 +1,49 @@
+// PLAY SCREEN
+servers.third_party=Servidores de terceiros
+createWorldScreen.experimtalSettings=Configurações experimentais 
+
+// WORLD SETTINGS
+toggle.game_rule.text=Configurações avançadas
+
+neko.c.type_world.gamemode=Modo de jogo:
+neko.c.type_world.personal_gamemode=Modo pessoal de jogo:
+neko.c.type_world.world_type=Tipo de mundo:
+neko.c.type_world.difficulty=Dificuldade:
+
+// MAIN SCREEN
+xbox.sign_text_true=Você está logado no Xbox
+xbox.sign_text_false=Você não está logado no Xbox
+
+// SETTINGS
+
+settings.header.graphics_and_gameplay=Gráficos e gameplay
+settings.header.controls_settings=Configurações de controle
+
+settings.header.graphics.text=Gráficos
+settings.header.gameplay.text=Gameplay
+settings.header.video.text=Vídeo
+
+yuki.general.text=Configurações gerais
+toggle.graphics.text=Gráficos
+toggle.controls_settings.text=Configurações de controle
+toggle.advanced_settings.text=Configurações avançadas
+
+yuki.advanced_settings.text=Configurações avançadas
+yuki.resource_packs.text=Pacotes de recursos
+
+neko.c.camera_perspective.text=Perspectiva de câmera:
+neko.c.ui_profile.text=Perfil de IU:
+
+// SETTINGS ABOUT UI
+zxyn.ui.verison=Versão:
+zxyn.ui.build=Compilação ZxynUI:
+zxyn.ui.latestupdate=Última atualização:
+zxyn.ui.mcsupport=Versões do Minecraft compatíveis com ZxynUI:
+
+neko.c.note.title=Avisos:
+neko.c.rule_1=Não modifique ZxynUI, exceto para uso pessoal
+neko.c.rule_2=Fazer o reupload dos links de ZxynUI é proibido
+neko.c.rule_3=Encontrou um bug? Reporte-o ao criador
+neko.c.rule_4=Se você quer avaliar ZxynUI em seu canal no YouTube, não se esqueça de incluir o nome do criador de ZxynUI na descrição do vídeo
+neko.c.rule_5=Não use os arquivos JSON de ZxynUI sem PERMISSÃO!
+
