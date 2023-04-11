@@ -1,6 +1,6 @@
 // PLAY SCREEN
 servers.third_party=Third Party Servers
-createWorldScreen.experimtalSettings=Experimtal Settings
+createWorldScreen.experimtalSettings=Experimental Settings
 
 // WORLD SETTINGS
 toggle.game_rule.text=Advanced Settings
@@ -16,7 +16,7 @@ xbox.sign_text_false=You're not logged in to XBOX
 
 // SETTINGS
 
-settings.header.graphics_and_gameplay=Graphics And Gameplay
+settings.header.graphics_and_gameplay=Graphics & Gameplay
 settings.header.controls_settings=Control Settings
 
 settings.header.graphics.text=Graphics
@@ -32,7 +32,7 @@ yuki.advanced_settings.text=Advanced Settings
 yuki.resource_packs.text=Resource Packs
 
 neko.c.camera_perspective.text=Perspective Camera:
-neko.c.ui_profile.text=UI Profile :
+neko.c.ui_profile.text=UI Profile:
 
 // SETTINGS ABOUT UI
 zxyn.ui.verison=Version:
@@ -43,7 +43,7 @@ zxyn.ui.mcsupport=ZxynUI supported Minecraft Version:
 neko.c.note.title=Note:
 neko.c.rule_1=Do not modify ZxynUI (except for personal use)
 neko.c.rule_2=Re-uploading ZxynUI links is prohibited
-neko.c.rule_3=Found a bug? report to creator
+neko.c.rule_3=Found a bug? Report it to the creator
 neko.c.rule_4=If you want to review ZxynUI on your YouTube channel, don't forget to include the name of the ZxynUI creator in the video description
 neko.c.rule_5=Do not use ZxynUI JSON files without PERMISSION!
 
