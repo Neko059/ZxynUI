@@ -23,5 +23,58 @@
     "$pressed_state_border_visible": true,
     "size": [ 25, "100%"  ],
     "$locked_state_border_visible": false
+  },
+
+  "core_icon": {
+    "type": "image",
+    "size": [ 15, 15 ],
+    "color": [ 1.0, 1.0, 1.0 ]  // the icon texture should be white color
+  },
+
+  "xbox_icon@core_icon": {
+    "texture": ""
+  },
+  
+  "settings_icon@core_icon": {
+    "texture": ""
+  },
+
+  "feedback@core_icon": {
+    "texture": ""
+  },
+
+  "invite_icon@core_icon": {
+    "texture": ""
+  },
+
+  "exit_icon@core_icon": {
+    "texture": ""
+  },
+
+  "quit_button@zxyn_button.light_content_button": {
+    "$button_content": "zxyn_button.exit_icon",
+    "$pressed_button_name": "button.menu_exit"
+  },
+
+  "settings_button@zxyn_button.light_content_button": {
+    "$button_content": "zxyn_button.settings_icon",
+    "$pressed_button_name": "button.menu_settings"
+  },
+
+  "invite_button@zxyn_button.light_content_button": {
+    "$button_content": "zxyn_button.invite_icon",
+    "$pressed_button_name": "button.menu_invite_notification"
+  },
+
+  "feedback_button@zxyn_button.hyperlink_content_button": {
+    "$button_content": "zxyn_button.feedback",
+    "property_bag": {
+      "#hyperlink": "https://aka.ms/minecraftfb"
+    }
+  },
+
+  "login_xbox@zxyn_button.light_content_button": {
+    "$button_content": "zxyn.xbox_icon",
+    "$pressed_button_name": "button.signin"
   }
 }
