@@ -302,25 +302,25 @@
                 "controls": [
                   { "minecraft_version@loli.minecraft_version": {}},
                   {
-                    "invite_button@zxyn.invite_button": { "bindings": [{ "binding_name": "#feedback_visible", "binding_name_override": "#visible" }]}
+                    "invite_button@zxyn_button.invite_button": { "bindings": [{ "binding_name": "#feedback_visible", "binding_name_override": "#visible" }]}
                   },
                   { 
                     "spacer": { "type": "panel", "size": [ 3, 3 ]}
                   },
                   {
-                    "feedback_button@zxyn.feedback_button": { "bindings": [{ "binding_name": "#feedback_visible", "binding_name_override": "#visible" }]}
+                    "feedback_button@zxyn_button.feedback_button": { "bindings": [{ "binding_name": "#feedback_visible", "binding_name_override": "#visible" }]}
                   },
                   { 
                     "spacer": { "type": "panel", "size": [ 3, 3 ]}
                   },
                   {
-                    "quit_button@zxyn.quit_button": { "ignored": "$win10_edition" }
+                    "quit_button@zxyn_button.quit_button": { "ignored": "$win10_edition" }
                   },
                   { 
                     "spacer": { "type": "panel", "size": [ 3, 3 ]}
                   },
                   {
-                    "login_xbox@zxyn.login_xbox": { "bindings": [{ "binding_name": "#sign_in_visible", "binding_name_override": "#visible" }]}
+                    "login_xbox@zxyn_button.login_xbox": { "bindings": [{ "binding_name": "#sign_in_visible", "binding_name_override": "#visible" }]}
                   }
                 ]
               }
