@@ -1,0 +1,50 @@
+// PLAY SCREEN
+servers.third_party=Server Pihak Ke-tiga
+createWorldScreen.experimtalSettings=Pengaturan Experimental
+
+// WORLD SETTINGS
+toggle.game_rule.text=Pengaturan Lanjutan
+
+neko.c.type_world.gamemode=Mode Permainan :
+neko.c.type_world.personal_gamemode=Mode Permainan Personal :
+neko.c.type_world.world_type=Tipe Dunia :
+neko.c.type_world.difficulty=Kesulitan :
+
+// MAIN SCREEN
+menu.neko_quit_button=Keluar
+xbox.sign_text_true=Kamu sudah login xbox
+xbox.sign_text_false=Kamu belum login xbox
+
+// SETTINGS
+
+settings.header.graphics_and_gameplay=Grafis & Gameplay
+settings.header.controls_settings=Pengaturan Kontrol
+
+settings.header.graphics.text=GRAFIS
+settings.header.gameplay.text=GAMEPLAY
+settings.header.video.text=VIDEO
+
+yuki.general.text=Umum
+toggle.graphics.text=Grafis
+toggle.controls_settings.text=Pengaturan Kontrol
+toggle.advanced_settings.text=Pengaturan Lanjutan
+
+yuki.advanced_settings.text=Pengaturan Lanjutan
+yuki.resource_packs.text=Sumber daya
+
+neko.c.camera_perspective.text=Perspektif Kamera :
+neko.c.ui_profile.text=UI Profile :
+
+// SETTINGS ABOUT UI
+zxyn.ui.verison=Versi:
+zxyn.ui.build=ZxynUI Build:
+zxyn.ui.latestupdate=Tarakhir di update:
+zxyn.ui.mcsupport=ZxynUI mendukung Versi Minecraft:
+
+neko.c.note.title=Catatan :
+neko.c.rule_1=Dilarang memodifikasi ZxynUI ( Kecuali untuk penggunaan pribadi )
+neko.c.rule_2=Dilarang re-upload link ZxynUI
+neko.c.rule_3=Nemu bug ? report ke creator
+neko.c.rule_4=Jika ingin me-review ZxynUI ke channel YouTube kamu, jangan lupa untuk cantumkan nama creator ZxynUI di deskripsi video
+neko.c.rule_5=Dilarang menggunakan file JSON ZxynUI tanpa IZIN!
+
