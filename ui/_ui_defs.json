@@ -4,6 +4,10 @@
 
 
     // Main UI
-    "textures/nekoui/mainui/zxyn_ui_new.json"
+    "zxyn-core/zxyn_ui_new.json",
+
+    // button
+    "zxyn-core/zxyn_button.json"
+
   ]
 }
