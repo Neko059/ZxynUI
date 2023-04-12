@@ -1,5 +1,6 @@
 // PLAY SCREEN
 servers.third_party=Server Pihak Ke-tiga
+playscreen.create_new_world=Buat Dunia baru
 createWorldScreen.experimtalSettings=Pengaturan Experimental
 
 // WORLD SETTINGS
