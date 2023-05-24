@@ -18,12 +18,25 @@ xbox.sign_text_false=Kamu belum login xbox
 
 // SETTINGS
 
+world_settings.header.game_settings=Pengaturan Dunia
+
+settings.header.quick_settings=Pengaturan Cepat
 settings.header.graphics_and_gameplay=Grafis & Gameplay
 settings.header.controls_settings=Pengaturan Kontrol
 
-settings.header.graphics.text=GRAFIS
-settings.header.gameplay.text=GAMEPLAY
-settings.header.video.text=VIDEO
+settings.header.graphics.text=Grafis
+settings.header.gameplay.text=Gameplay
+settings.header.video.text=Video
+settings.header.quick_settings.text=Pengaturan Cepat
+settings.header.keyboard_and_mouse.text=Keyboard & Mouse
+settings.header.controller.text=Pengontrol
+settings.header.touch.text=Sentuh / Sepuh
+settings.header.creator.text=Kreator
+settings.header.audio.text=Audio
+settings.header.language.text=Bahasa
+settings.header.account_section=Akun
+settings.header.accessibility_section=Aksesibilitas
+settings.header.general_tab_section=Umum
 
 yuki.general.text=Umum
 toggle.graphics.text=Grafis
@@ -44,8 +57,8 @@ zxyn.ui.mcsupport=ZxynUI mendukung Versi Minecraft:
 
 neko.c.note.title=Catatan :
 neko.c.rule_1=Dilarang memodifikasi ZxynUI ( Kecuali untuk penggunaan pribadi )
-neko.c.rule_2=Dilarang re-upload link ZxynUI
+neko.c.rule_2=Dilarang re-upload link ZxynUI ( RE-UPLOAD? = Ga bisa baca )
 neko.c.rule_3=Nemu bug ? report ke creator
 neko.c.rule_4=Jika ingin me-review ZxynUI ke channel YouTube kamu, jangan lupa untuk cantumkan nama creator ZxynUI di deskripsi video
 neko.c.rule_5=Dilarang menggunakan file JSON ZxynUI tanpa IZIN!
-
+neko.c.rule_6=Kuru - Kuru

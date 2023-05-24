@@ -1,5 +1,6 @@
 // PLAY SCREEN
 servers.third_party=Third Party Servers
+playscreen.create_new_world=Create New Worlds
 createWorldScreen.experimtalSettings=Experimental Settings
 
 // WORLD SETTINGS
@@ -11,17 +12,31 @@ neko.c.type_world.world_type=World Type:
 neko.c.type_world.difficulty=Difficulty:
 
 // MAIN SCREEN
+menu.neko_quit_button=Exit
 xbox.sign_text_true=You're logged in to XBOX
 xbox.sign_text_false=You're not logged in to XBOX
 
 // SETTINGS
 
+world_settings.header.game_settings=World Settings
+
+settings.header.quick_settings=Quick Settings
 settings.header.graphics_and_gameplay=Graphics & Gameplay
 settings.header.controls_settings=Control Settings
 
 settings.header.graphics.text=Graphics
 settings.header.gameplay.text=Gameplay
 settings.header.video.text=Video
+settings.header.quick_settings.text=Quick Settings
+settings.header.keyboard_and_mouse.text=Keyboard & Mouse
+settings.header.controller.text=Controller
+settings.header.touch.text=Touch
+settings.header.creator.text=Creator
+settings.header.audio.text=Audio
+settings.header.language.text=language
+settings.header.account_section=Account
+settings.header.accessibility_section=Accessibility
+settings.header.general_tab_section=General
 
 yuki.general.text=General
 toggle.graphics.text=Graphics
@@ -46,4 +61,4 @@ neko.c.rule_2=Re-uploading ZxynUI links is prohibited
 neko.c.rule_3=Found a bug? Report it to the creator
 neko.c.rule_4=If you want to review ZxynUI on your YouTube channel, don't forget to include the name of the ZxynUI creator in the video description
 neko.c.rule_5=Do not use ZxynUI JSON files without PERMISSION!
-
+neko.c.rule_6=Kuru - Kuru
