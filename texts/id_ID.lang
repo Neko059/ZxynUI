@@ -1,3 +1,29 @@
+// HUD //
+map.position=§bX:§f %s, §bY:§f %s, §bZ:§f %s
+
+// Main UI
+zxyn_main.ui.play=MAIN
+zxyn_main.ui.marketplace=MARKETPLACE
+zxyn_main.ui.dressingroom=RUANG GANTI
+zxyn_main.ui.achievements=PENCAPAIAN
+zxyn_main.ui.settings=PENGATURAN
+
+zxyn_main.ui_signin=Login Ke Xbox
+zxyn_main.ui.feedback=Umpan Balik
+zxyn_main.ui.invite_notifications=Undangan Realm
+zxyn_main.ui.quit=Quit
+
+// PAUSE
+zxyn_pause.ui.invite_to_game=Invite Ke Permainan
+zxyn_pause.ui.screenshot=Screenshots
+zxyn_pause.ui.title_pause=Pause
+
+// CHAT
+zxyn_chat.ui.previous=Sebelumnya
+zxyn_chat.ui.next=Selanjutnya
+zxyn_chat.ui.skip=Auto Complete
+zxyn_chat.ui.mute_all=Mute Chat
+
 // PLAY SCREEN
 servers.third_party=Server Pihak Ke-tiga
 playscreen.create_new_world=Buat Dunia baru
@@ -13,13 +39,14 @@ neko.c.type_world.difficulty=Kesulitan :
 
 // MAIN SCREEN
 menu.neko_quit_button=Keluar
-xbox.sign_text_true=Kamu sudah login xbox
-xbox.sign_text_false=Kamu belum login xbox
+xbox.sign_text_true=KAMU SUDAH LOGIN XBOX
+xbox.sign_text_false=KAMU BELUM LOGIN XBOX
 
 // SETTINGS
 
 world_settings.header.game_settings=Pengaturan Dunia
 
+settings.header.account= Akun
 settings.header.quick_settings=Pengaturan Cepat
 settings.header.graphics_and_gameplay=Grafis & Gameplay
 settings.header.controls_settings=Pengaturan Kontrol
@@ -50,15 +77,15 @@ neko.c.camera_perspective.text=Perspektif Kamera :
 neko.c.ui_profile.text=UI Profile :
 
 // SETTINGS ABOUT UI
-zxyn.ui.verison=Versi:
+zxyn.ui.verison=Versi ZxynUI [ ID ]:
 zxyn.ui.build=ZxynUI Build:
 zxyn.ui.latestupdate=Tarakhir di update:
 zxyn.ui.mcsupport=ZxynUI mendukung Versi Minecraft:
 
 neko.c.note.title=Catatan :
 neko.c.rule_1=Dilarang memodifikasi ZxynUI ( Kecuali untuk penggunaan pribadi )
-neko.c.rule_2=Dilarang re-upload link ZxynUI ( RE-UPLOAD? = Ga bisa baca )
-neko.c.rule_3=Nemu bug ? report ke creator
+neko.c.rule_2=Dilarang shortcut link ZxynUI ( Shortcut? = Lu Ga bisa baca )
+neko.c.rule_3=Nemu bug? report ke creator
 neko.c.rule_4=Jika ingin me-review ZxynUI ke channel YouTube kamu, jangan lupa untuk cantumkan nama creator ZxynUI di deskripsi video
 neko.c.rule_5=Dilarang menggunakan file JSON ZxynUI tanpa IZIN!
 neko.c.rule_6=Kuru - Kuru

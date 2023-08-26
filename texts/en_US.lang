@@ -1,3 +1,29 @@
+// HUD //
+map.position=§bX:§f %s, §bY:§f %s, §bZ:§f %s
+
+// Main UI
+zxyn_main.ui.play=PLAY
+zxyn_main.ui.marketplace=MARKETPLACE
+zxyn_main.ui.dressingroom=DRESSING ROOM
+zxyn_main.ui.achievements=ACHIEVEMENTS
+zxyn_main.ui.settings=SETTINGS
+
+zxyn_main.ui_signin=Sign-in to Xbox
+zxyn_main.ui.feedback=Feedback
+zxyn_main.ui.invite_notifications=Invite Notifications
+zxyn_main.ui.quit=Quit
+
+// PAUSE
+zxyn_pause.ui.invite_to_game=Invite To Game
+zxyn_pause.ui.screenshot=Screenshot
+zxyn_pause.ui.title_pause=Pause
+
+// CHAT
+zxyn_chat.ui.previous=Previous
+zxyn_chat.ui.next=Next
+zxyn_chat.ui.skip=Auto Complete
+zxyn_chat.ui.mute_all=Mute All
+
 // PLAY SCREEN
 servers.third_party=Third Party Servers
 playscreen.create_new_world=Create New Worlds
@@ -13,13 +39,14 @@ neko.c.type_world.difficulty=Difficulty:
 
 // MAIN SCREEN
 menu.neko_quit_button=Exit
-xbox.sign_text_true=You're logged in to XBOX
-xbox.sign_text_false=You're not logged in to XBOX
+xbox.sign_text_true=XBOX: YES
+xbox.sign_text_false=XBOX: NO
 
 // SETTINGS
 
 world_settings.header.game_settings=World Settings
 
+settings.header.account=Account
 settings.header.quick_settings=Quick Settings
 settings.header.graphics_and_gameplay=Graphics & Gameplay
 settings.header.controls_settings=Control Settings
@@ -33,7 +60,7 @@ settings.header.controller.text=Controller
 settings.header.touch.text=Touch
 settings.header.creator.text=Creator
 settings.header.audio.text=Audio
-settings.header.language.text=language
+settings.header.language.text=Language
 settings.header.account_section=Account
 settings.header.accessibility_section=Accessibility
 settings.header.general_tab_section=General
@@ -50,14 +77,14 @@ neko.c.camera_perspective.text=Perspective Camera:
 neko.c.ui_profile.text=UI Profile:
 
 // SETTINGS ABOUT UI
-zxyn.ui.verison=Version:
+zxyn.ui.verison=ZxynUI Versions:
 zxyn.ui.build=ZxynUI Build:
 zxyn.ui.latestupdate=Latest Update:
 zxyn.ui.mcsupport=ZxynUI supported Minecraft Version:
 
 neko.c.note.title=Note:
 neko.c.rule_1=Do not modify ZxynUI (except for personal use)
-neko.c.rule_2=Re-uploading ZxynUI links is prohibited
+neko.c.rule_2=Shortcut ZxynUI links is prohibited
 neko.c.rule_3=Found a bug? Report it to the creator
 neko.c.rule_4=If you want to review ZxynUI on your YouTube channel, don't forget to include the name of the ZxynUI creator in the video description
 neko.c.rule_5=Do not use ZxynUI JSON files without PERMISSION!
